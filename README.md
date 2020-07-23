@@ -24,6 +24,8 @@ I am passionate about learning and sharing my knowledge with others on my social
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
    </p>  
    
 ## Tools
