@@ -7,13 +7,13 @@
 
 ### Hello there! 👋
 
-My name is Javier Amado, Android Developer Student  
+My name is Javier Amado, .NET developer and content creator
 
 I am passionate about learning and sharing my knowledge with others on my social networks.  
 
-- 🔭 I am currently studying in my last year as a backend developer with Android
-- 🌱 I’m currently learning Kotlin, delving into SQL and Flutter
-- 💬 Ask me about Android development, sql queries, brainstorm...
+- 🔭 I’m currently working as backend developer with .NET
+- 🌱 I’m currently learning MAUI, delving into Kotlin and Flutter
+- 💬 Ask me about Apps development, sql queries, brainstorm...
 - ⚡ More about me: I love learning new things, tabletop role-playing games, reading, and video games.  
 
 ## Used
