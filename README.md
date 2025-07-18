@@ -1,11 +1,11 @@
 # Hola 🎐 Javier です
 
-## 👾 Dev en .NET con alma de JRPG  
+### 👾 Dev en .NET con alma de JRPG  
 Codeando aventuras y soñando en píxeles. 冒険は続く。  
 
 ---
 
-## 🗺️ Mis Stats (pixel‑art style)
+## 🗺️ Mis Stats 
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)"
@@ -25,4 +25,4 @@ Codeando aventuras y soñando en píxeles. 冒険は続く。
 ---
 
 ## 📫 Conecta conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)](https://www.linkedin.com/in/javier-miguel-amado/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier-blue)](https://www.linkedin.com/in/javier-miguel-amado/)  [![Bluesky](https://img.shields.io/badge/Bluesky-@javieramado.bsky.social-1e90ff?logo=bluesky)](https://bsky.app/profile/javieramado.bsky.social)  [![X](https://img.shields.io/badge/X-@javieramadom-black?logo=x)](https://x.com/javieramadom)  [![Reddit](https://img.shields.io/badge/Reddit-@KamiKeys-orange?logo=reddit)](https://www.reddit.com/user/KamiKeys/)
