@@ -18,8 +18,8 @@ Codeando aventuras y soñando en píxeles. 冒険は続く。
 ---
 
 ## 🎯 Sobre mí  
-- 🏢 .NET, C#, Dynamics 365 y Power Platform.  
-- ✏️ Explorando Flutter, cacharreando con IA y tonteando con Fabric.  
+- 🏢 .NET, C#, Dynamics 365, Power Platform y Copilot.  
+- ✏️ Cacharreando con IA, Python y asistentes personalizados.  
 - 🌌 Cyberpunk, JRPGs y commits épicos. El combo perfecto. 
 
 ---
